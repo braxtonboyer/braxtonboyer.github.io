@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Contact
 ---
 
 Want to get in touch?
