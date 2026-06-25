@@ -1,1 +1,1 @@
-[Department of Central, Eastern, and Northern European Studies](https://en.wikipedia.org/wiki/Cheese)
+[UBC-about-page]: https://cenes.ubc.ca/profile/braxton-boyer/
