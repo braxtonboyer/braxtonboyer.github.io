@@ -1,0 +1,5 @@
+Want to get in touch?
+
+Professional communication can be sent [here.](mailto:{{ site.work_email }}) Personal communication can be sent [here.](mailto:{{ site.personal_email }})
+
+You can also check out my work on Github [here.]({{ site.github }})
