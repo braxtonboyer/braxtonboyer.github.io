@@ -2,6 +2,6 @@
 
 # About
 
-Braxton Boyer is currently a postdoctoral fellow at the [Department of Central, Eastern, and Northern European Studies][UBC-about-page] at the University of British Columbia. He works with [Dr. Katherine Bowers](https://cenes.ubc.ca/profile/katherine-bowers/) and [Dr. Kate Holland](https://www.slavic.utoronto.ca/people/directories/all-faculty/kate-holland) on the Digital Humanities project [_Computational Dostoevsky_.](https://github.com/Digital-Dostoevsky)
+I'm currently a postdoctoral fellow at the [Department of Central, Eastern, and Northern European Studies][UBC-about-page] at the University of British Columbia. I work with [Dr. Katherine Bowers][Katia-UBC-about-page] and [Dr. Kate Holland][Kate-UofT-about-page] on the Digital Humanities project [_Computational Dostoevsky_.][Comp-Dost-Ghub]
 
 {% include links.md %}
